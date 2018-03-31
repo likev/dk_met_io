@@ -22,11 +22,13 @@ Other required packages:
 
 ## Install
 Using the fellowing command to install packages:
-
-> pip install git+git://github.com/NMC-DAVE/dk_met_io.git
+```
+  pip install git+git://github.com/NMC-DAVE/dk_met_io.git
+```
 
 or download the package and install:
-
-> git clone --recursive https://github.com/NMC-DAVE/dk_met_io.git
-> cd dk_met_io
-> python setup.py install
+```
+  git clone --recursive https://github.com/NMC-DAVE/dk_met_io.git
+  cd dk_met_io
+  python setup.py install
+```
