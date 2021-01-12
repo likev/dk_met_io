@@ -1,3 +1,6 @@
+# Achived
+Please use https://github.com/likev/nmc_met_io instead.
+
 # 气象数据读写及访问程序库
 Provides data I/O functions for MICAPS, satellite,
 weather radar format file et al, and accessing to
